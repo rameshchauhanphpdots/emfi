@@ -1,0 +1,15 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "graphs",
+  "main": "index.html",
+  "scripts": {
+    "start":"http-server -a localhost -p 8000 -c-1 ",
+    "test": "karma start karma.conf.js"
+  },
+  "author": "Ramesh Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
